@@ -56,4 +56,4 @@ make APP_PATH="$PWD"
 
 ### The Documentation
 Here you will find the complete CPC464 manual as a PDF. Print it, and bind it to a book. This will give you a very good introduction into BASIC programming:
-- [CPC 464 Manual Deutsch, PDF]()
+- [CPC 464 Manual Deutsch, PDF](https://github.com/bernhardsturm/cpc464/blob/main/Schneider_Bedienungshandbuch_CPC464.pdf)
