@@ -54,6 +54,22 @@ make APP_PATH="$PWD"
 ./cap32
 ```
 
+#### The Configuration
+##### Configure the CPC-Emulator
+The following config file is adapted to the Raspberry Pi envionement
+[WILL PROVIDE CONFIG-FILE ASAP]
+
+As we have a Swiss-German-Keyboard, some changes to the Key-Configuration is needed, too:
+[WILL PROVIDE THE KEYBOARD-CONFIG ASAP]
+
+##### Boot the CPC-Emulator
+In order to boot directly into the emulator, we have to set the following commands
+
 ### The Documentation
 Here you will find the complete CPC464 manual as a PDF. Print it, and bind it to a book. This will give you a very good introduction into BASIC programming:
 - [CPC 464 Manual Deutsch, PDF](https://github.com/bernhardsturm/cpc464/blob/main/Schneider_Bedienungshandbuch_CPC464.pdf)
+
+## Games
+This is a good source for a lot of good games:
+
+- [CPCRulez](https://cpcrulez.fr/games.htm)
