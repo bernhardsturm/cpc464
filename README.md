@@ -10,7 +10,7 @@ The emulator runs on Raspberry Pi hardware. So all you need is a spare monitor, 
 
 ## Let's Start
 ### The Hardware
-You will need a [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?resellerType=home) as this model offers sufficient performance for our emulator. If you plan to build an fully independent system, then here is the list:
+You will need a [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?resellerType=home) as this model offers sufficient performance for our emulator. If you plan to build a fully independent system, then here is the list:
 
 - [Raspberry Pi 4 Model B, Starter Kit](https://www.digitec.ch/de/s1/product/raspberry-pi-4-4g-model-b-full-starter-kit-universal-armv8-entwicklungsboard-kit-12428788)
 - [AOC 22" Display](https://www.digitec.ch/de/s1/product/aoc-22b1h-22-1920-x-1080-pixels-monitor-8718229)
