@@ -53,3 +53,7 @@ Decompress it and then from a terminal in the resulting directory:
 make APP_PATH="$PWD"
 ./cap32
 ```
+
+### The Documentation
+Here you will find the complete CPC464 manual as a PDF. Print it, and bind it to a book. This will give you a very good introduction into BASIC programming:
+- [CPC 464 Manual Deutsch, PDF]()
