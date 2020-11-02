@@ -35,7 +35,7 @@ in the *current directory of the process* that launches it, not in the
 executable location as stated in the documentation.  To get the
 documented behavior, use `APP_PATH` like in the examples below.
 
-### From Git
+##### From Git
 
 ```
 git clone https://github.com/ColinPitrat/caprice32.git
@@ -44,7 +44,7 @@ make APP_PATH="$PWD"
 ./cap32
 ```
 
-### From releases
+##### From releases
 
 Download a release from https://github.com/ColinPitrat/caprice32/releases.
 Decompress it and then from a terminal in the resulting directory:
