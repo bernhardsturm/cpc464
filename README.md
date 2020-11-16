@@ -60,7 +60,7 @@ The following config file is adapted to the Raspberry Pi envionement
 https://github.com/bernhardsturm/cpc464/blob/main/cap32.cfg
 
 As we have a Swiss-German-Keyboard, some changes to the Key-Configuration is needed, too:
-[WILL PROVIDE THE KEYBOARD-CONFIG ASAP]
+https://github.com/bernhardsturm/cpc464/blob/main/keymap_de_linux.map
 
 ##### Boot the CPC-Emulator
 In order to boot directly into the emulator, we have to set the following commands
