@@ -57,7 +57,7 @@ make APP_PATH="$PWD"
 #### The Configuration
 ##### Configure the CPC-Emulator
 The following config file is adapted to the Raspberry Pi envionement
-[WILL PROVIDE CONFIG-FILE ASAP]
+https://github.com/bernhardsturm/cpc464/blob/main/cap32.cfg
 
 As we have a Swiss-German-Keyboard, some changes to the Key-Configuration is needed, too:
 [WILL PROVIDE THE KEYBOARD-CONFIG ASAP]
